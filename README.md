@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ComptTIA Network+<br>🎯 Goals: Join a cybersecurity team and work for a safer future.<br>🎲 Fun fact: In my free time I study and pen test utilizing the HacktheBox as a website to further improve myself</p>
+<p align="left">🌍 I'm based in Drama, Greece but willing to relocate to Thessaloniki<br>📚 I'm currently learning ComptTIA Network+<br>🎯 Goals: Join a cybersecurity team and work for a safer future.<br>🎲 Fun fact: In my free time I study and pen test utilizing the HacktheBox as a website to further improve myself</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Other programmes I have learned</h2>
+<h3 align="left">Other programmes I have learned</h3>
 
 ###
 
@@ -51,5 +51,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+
+###
+
+<h3 align="left">Contact me!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/giannisathanasiadis/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="giannisathanasiadis54@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiannisAthan/GiannisAthan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiannisAthan/GiannisAthan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiannisAthan/GiannisAthan/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
