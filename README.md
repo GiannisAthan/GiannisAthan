@@ -14,7 +14,7 @@
   🌍 I'm based in Drama, Greece but willing to relocate to Thessaloniki<br>
   📚 I'm currently learning CompTIA Network+<br>
   🎯 Goals: Join a cybersecurity team and work for a safer future.<br>
-  🎲 Fun fact: In my free time I study and pen test utilizing Hack The Box to further improve myself.
+  🎲 Fun fact: In my free time I study and pen test utilizing Hack The Box to further improve my skillset.
 </p>
 
 ###
